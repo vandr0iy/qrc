@@ -8,8 +8,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/fumiyas/qrc/lib"
-	"github.com/fumiyas/go-tty"
+	"github.com/vandr0iy/qrc/lib"
+	"github.com/vandr0iy/go-tty"
 )
 
 type cmdOptions struct {
