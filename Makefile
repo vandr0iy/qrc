@@ -1,7 +1,7 @@
 GO=		go
 GOX=		gox
 
-GO_PACKAGE=	github.com/fumiyas/qrc/cmd/qrc
+GO_PACKAGE=	github.com/vandr0iy/qrc/cmd/qrc
 CROSS_TARGETS=	linux/amd64 linux/386 darwin/amd64 windows/386
 
 default: build
